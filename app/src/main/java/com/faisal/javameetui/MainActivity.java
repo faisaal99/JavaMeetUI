@@ -12,6 +12,8 @@ enum ColorMode {
     BLUE, YELLOW, BLACK
 }
 
+// THIS IS A COOL COMMENT HAHAHAHAH
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     // An int variable to hold a value
